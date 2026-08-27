@@ -1,0 +1,5 @@
+# Vanta Dependencies
+rich>=13.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+pyfiglet>=0.8.post1
